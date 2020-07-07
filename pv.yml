@@ -14,4 +14,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/web"
+    path: "/root/web"
